@@ -81,8 +81,9 @@ TIL 애플리케이션의 백엔드 API는 아래 주소에서 확인할 수 있
 [http://localhost:3000/api/docs](http://localhost:3000/api/docs)
 
 ## Mongo 접속
-   파일수정 : app.js
-   mongodb://[아이디]:[비밀번호]@likemind.synology.me:[포트]/[아이디]?authMechanism=DEFAULT
+파일수정 : app.js
+   
+mongodb://[아이디]:[비밀번호]@likemind.synology.me:[포트]/[아이디]?authMechanism=DEFAULT
 
 ## Mongo Cloud 가입 절차
 
